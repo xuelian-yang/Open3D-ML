@@ -1,4 +1,4 @@
-.vscode/
+#.vscode/
 .DS_Store
 __pycache__
 # Distribution / packaging
@@ -26,3 +26,4 @@ test_kpconv/
 kernels/
 **/.fuse*
 train_log/
+*.log
